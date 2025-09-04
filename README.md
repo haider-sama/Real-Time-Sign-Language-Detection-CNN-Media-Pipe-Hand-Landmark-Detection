@@ -91,8 +91,7 @@ It demonstrates the integration of **deep learning** and **computer vision** for
 └── 📄 testCNN.ipynb                # Notebook version of testing
 <br />
 └── 📄 Project_Report_02_ES_II_45.pdf # Full project report
-<br />
-└── 📄 README.md                    # Project documentation
+
 
 📌 Key Insights
 
