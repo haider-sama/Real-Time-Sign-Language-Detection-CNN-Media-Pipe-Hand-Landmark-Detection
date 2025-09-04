@@ -40,24 +40,27 @@ It demonstrates the integration of **deep learning** and **computer vision** for
 
 ## 🚀 How to Run
 ### 1. Install Dependencies
-```bash
-pip install -r requirements.txt
-
-Or install manually:
-```bash
-pip install opencv-python mediapipe torch numpy pandas
-
-### Run Real-Time Detection
-```bash
-python realTime_45.py
-
-### Train the CNN Model (Optional)
-```bash
-python training.py
-
-### Test the CNN Model (Optional)
-```bash
-python testCNN.py
+   - Navigate to the `Sign-Language-Detection/` folder.  
+   - Install dependencies:  
+     ```bash
+     pip install -r requirements.txt
+     ```  
+   - or install manually:  
+     ```bash
+     pip install opencv-python mediapipe torch numpy pandas
+     ```
+   - Run Real-Time Detection:  
+     ```bash
+     python realTime_45.py
+     ```
+   - Train the CNN Model (Optional):
+     ```bash
+     python training.py
+     ```
+   - Test the CNN Model (Optional)
+     ```bash
+     python testCNN.py
+     ```  
 
 ## 📂 Project Structure
 
