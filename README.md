@@ -67,18 +67,31 @@ It demonstrates the integration of **deep learning** and **computer vision** for
 📁  Sign-Language-Detection/
 <br />
 └──📄 CNNModel.py                  # CNN architecture
+<br />
 └── 📄 CNNModel.ipynb               # Notebook for CNN
+<br />
 └── 📄 CNN_model_alphabet_SIBI.pth  # Pre-trained CNN weights
+<br />
 └── 📄 handLandMarks.py             # MediaPipe hand landmark detection
+<br />
 └── 📄 mediapipeHandDetection.py    # Real-time MediaPipe tracking
+<br />
 └── 📄 mediapipeHandDetection.ipynb # Notebook version of hand tracking
+<br />
 └── 📄 realTime_45.py               # Real-time detection script
+<br />
 └── 📄 realTime_45.ipynb            # Notebook version of real-time detection
+<br />
 └── 📄 training.py                  # CNN training script
+<br />
 └── 📄 training.ipynb               # Notebook version of training
+<br />
 └── 📄 testCNN.py                   # CNN testing script
+<br />
 └── 📄 testCNN.ipynb                # Notebook version of testing
+<br />
 └── 📄 Project_Report_02_ES_II_45.pdf # Full project report
+<br />
 └── 📄 README.md                    # Project documentation
 
 📌 Key Insights
